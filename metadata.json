@@ -1,0 +1,6 @@
+{
+  "name": "Alpine Editor",
+  "description": "An upgraded, Alpine Linux-inspired Android code editor with a local simulated terminal, a fully functional Gemini AI agent for coding tasks, and robust file management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
